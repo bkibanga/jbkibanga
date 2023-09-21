@@ -1,3 +1,3 @@
 # jbkibanga
-theme:Dinky
+remote_theme:Dinky
 
